@@ -1,0 +1,12 @@
+{
+  "company": {
+    "owner": "Owner Name",
+    "gst": "GST Number",
+    "phone": "+91 XXXXX XXXXX",
+    "whatsapp": "91XXXXXXXXXX",
+    "email": "info@vaishnoproducts.in",
+    "address": "India",
+    "story": "Vaishno Products is a customer-first business focused on dependable products, clear specifications and straightforward service."
+  },
+  "products": []
+}
